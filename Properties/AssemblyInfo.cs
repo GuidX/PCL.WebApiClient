@@ -5,7 +5,7 @@ using System.Resources;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("WebApiClient")]
-[assembly: AssemblyDescription("Helper for Accessing ASP.NET WebApi using Bearer Token Authentication")]
+[assembly: AssemblyDescription("Library for Accessing ASP.NET WebApi using Bearer Token Authentication")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Mark Soper")]
 [assembly: AssemblyProduct("WebApiClient")]
